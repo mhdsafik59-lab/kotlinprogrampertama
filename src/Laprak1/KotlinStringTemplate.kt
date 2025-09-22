@@ -1,3 +1,5 @@
+package Laprak1
+
 fun main(args: Array<String>) {
     val a = 7
     val b = 8

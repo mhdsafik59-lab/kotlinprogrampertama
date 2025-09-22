@@ -1,3 +1,5 @@
+package Laprak1
+
 fun main(args: Array<String>) {
     val oneMillion = 1_000_000
     val creditCardNumber = 1234_5678_9012_3456L

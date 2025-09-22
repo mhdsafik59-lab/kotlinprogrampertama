@@ -1,3 +1,5 @@
+package Laprak1
+
 fun main(args: Array<String>) {
     //Doubler program parsing
     println("Enter a number and I'll double it: ")

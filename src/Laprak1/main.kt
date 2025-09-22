@@ -1,6 +1,8 @@
+package Laprak1
+
 fun main() {
     // contoh input Morse (pisah tiap karakter dengan spasi; "/" artinya spasi antar kata)
-    val s = ".. -.-. - ... --- -.-. .. .- .-.."
+    val s = ".. -.-. - ... --- -.-. .. .- .-.." 
     println("The original message: $s")
 
     // map dari kode Morse -> karakter

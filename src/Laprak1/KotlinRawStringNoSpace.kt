@@ -1,3 +1,5 @@
+package Laprak1
+
 fun main(args: Array<String>) {
     var text = """ 
             |Tell me and I forget. 

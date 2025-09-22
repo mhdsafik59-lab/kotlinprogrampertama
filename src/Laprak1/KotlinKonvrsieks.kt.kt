@@ -1,3 +1,5 @@
+package Laprak1
+
 fun main(args: Array<String>) {
     //ASCII value
     var c: Char // character

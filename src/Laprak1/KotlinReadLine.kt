@@ -1,3 +1,5 @@
+package Laprak1
+
 fun main(args: Array<String>) {
     //Parrot program
     println("Hi I'm Lora, the virtual parrot, and i love to repeat!");
